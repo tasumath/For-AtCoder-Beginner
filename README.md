@@ -5,5 +5,8 @@ C++ 基本文法の習得 習得のために解いた問題
 
 https://atcoder.jp/contests/apg4b
 
-
 習得の際に問題を沢山解いたため、それらをまとめておく。
+
+また、ファイル名 "AtCoder-base"の中には、以下のリンクに掲載されている10問に対するコードをまとめた。
+
+https://atcoder.jp/contests/abs
