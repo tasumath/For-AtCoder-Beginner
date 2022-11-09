@@ -7,6 +7,6 @@ https://atcoder.jp/contests/apg4b
 
 習得の際に問題を沢山解いたため、それらをまとめておく。
 
-また、ファイル名 "AtCoder-base"の中には、以下のリンクに掲載されている10問に対するコードをまとめた。
+また、ファイル名 "AtCoder-base"の中には、以下のリンクに掲載されている10問に対するコードをまとめた。これだけC言語で書かれているため、C++に書き直そう。
 
 https://atcoder.jp/contests/abs
